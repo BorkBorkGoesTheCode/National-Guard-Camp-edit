@@ -4,7 +4,7 @@
     "ident": "national_guard_camp_edit",
     "name": "Beta National Guard Camp, Aggregate's edit",
     "authors": [ "acidia", "Aggregate" ],
-    "description": "Help test some alterations to the base Camp.  Provide feedback in the thread under 'The Lab'",
+    "description": "An edited version of the "Beta National Guard Camp" that comes with the game.",
     "category": "buildings",
     "dependencies": [ "dda" ]
   }
